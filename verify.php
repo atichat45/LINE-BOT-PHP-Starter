@@ -1,5 +1,5 @@
 <?php
-$access_token = 'XXXXXXXXXXXXXXXXXXXXXXX';
+$access_token = 'https://sleepy-chamber-78661.herokuapp.com/bot.php';
 
 $url = 'https://api.line.me/v1/oauth/verify';
 
